@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  },
+  "dependencies": {
+    "@clerk/clerk-react": "^5.9.4",
+    "react-router-dom": "^6.26.2",
+    "react-simple-typewriter": "^5.0.1"
+  }
+}
